@@ -1,0 +1,3 @@
+Test environment to upload vagrant box...
+
+Goal is so anybody can fork development enviornment and contribute.
